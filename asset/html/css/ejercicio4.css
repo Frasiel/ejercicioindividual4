@@ -1,0 +1,44 @@
+.bloque {
+    border: solid 2px #bc5fa5;
+    border-radius: 8px;
+    height: 100px;
+    background-color: #be08a3;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.bloque2 {
+    border: width 5px; ;
+    border-radius: 10px;
+    height: 100px;
+    background-color:#bc5fa5;
+    color: #fff;
+    display: flex;
+    justify: content 120px;;
+    align-items: center;
+    margin-bottom: 10%;
+    padding: auto;
+}
+.carousel-item img {
+    max-width: 40%;
+    height: auto; 
+    display: block; 
+        margin: auto;
+}
+
+.lista {
+    color: rgb(234, 228, 235);
+    background: #940571;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.footer {
+    color: #be08a3;
+}
+body {
+    background-color: #f8e8e8; 
+}
